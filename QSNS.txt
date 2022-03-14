@@ -1,0 +1,9 @@
+1. To configure load balancer do we have the same type of instances? 
+	or is that okay if it is is different?
+2. Can we use the same key pair to multiple instances?
+3. While creating load balancer, we have to select the security groups? If we are launching
+	4 instances then do we need to select all 4 security groups of those 4 instances or any
+	one is enough?
+
+Load balancer
+VPC Peering
